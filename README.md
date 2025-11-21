@@ -16,6 +16,4 @@
 
 <img src="https://streak-stats.demolab.com?user=Meshtastical&theme=transparent&border_radius=15&stroke=7F7FD5&ring=7F7FD5&fire=7F7FD5" />
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Meshtastical&theme=github-compact&hide_border=true&area=true&area_color=86A8E7&line=7F7FD5&point=7F7FD5" />
-
 </div>
